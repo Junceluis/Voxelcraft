@@ -14,3 +14,5 @@ F	to Fly (Creative)
 1–9 to	Select hotbar slot
 Mouse to wheel	Cycle hotbar
 Esc to	Pause
+
+Mostly made by Claude, directed and tested by me.
