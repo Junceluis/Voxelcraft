@@ -17,5 +17,4 @@ Esc to	Pause
 
 Mostly made by Claude, directed and tested by me.
 
-1.7 is coming soon!
-It will add: The nether, and the end.
+1.7 is out now!
